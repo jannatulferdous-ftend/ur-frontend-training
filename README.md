@@ -35,3 +35,4 @@ npm run build
 - **Styling:** Tailwind CSS
 - **Linting:** ESLint
 - **Formatting:** Prettier
+CI workflow verified locally with npm ci.
